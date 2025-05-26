@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../assets/css/Dantestyle.css">
 </head>
 <body>
-   <audio id="bg-music" src="../assets/Mp3/DEVILS_NEVER_CRY_DANTE.mp3" autoplay loop></audio>
+    <audio id="bg-music" src="../assets/Mp3/DEVILS_NEVER_CRY_DANTE.mp3" autoplay loop></audio>
     <div class="dante-layout">
         <div class="dante-description-side">
             <h2>Dante</h2>
