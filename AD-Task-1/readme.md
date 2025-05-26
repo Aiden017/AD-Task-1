@@ -17,7 +17,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=Aiden017/AD-Task-1)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/144d2c3f-82f0-440d-89df-023ce97ebda9/project/a7f5fd6b-285c-44b7-b1d1-1c92f3afe7b8.svg)](https://wakatime.com/badge/user/144d2c3f-82f0-440d-89df-023ce97ebda9/project/a7f5fd6b-285c-44b7-b1d1-1c92f3afe7b8)
 
 ---
 
