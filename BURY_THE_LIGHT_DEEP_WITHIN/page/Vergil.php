@@ -30,6 +30,6 @@
     <div id="vergil-gif"></div>
     <hr>
     <a href="../index.php">Return to Home</a>
-    <a href="VGbattlelog.php">View Battle Log</a>
+    <a href="./VGbattlelog.php">View Battle Log</a>
 </body>
 </html>

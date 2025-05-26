@@ -24,7 +24,7 @@
     </div>
     <div id="vergil-gif"></div>
     <hr>
-    <a href="Vergil.php">Return to Vergil's Bio</a>
+    <a href="./Vergil.php">Return to Vergil's Bio</a>
     <a href="../index.php">Return to Home</a>
 </body>
 </html>

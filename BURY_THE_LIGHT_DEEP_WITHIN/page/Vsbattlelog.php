@@ -24,7 +24,7 @@
     </div>
     <div id="v-gif"></div>
     <hr>
-    <a href="v.php">Return to V's Bio</a>
+    <a href="./v.php">Return to V's Bio</a>
     <a href="../index.php">Return to Home</a>
 </body>
 </html>

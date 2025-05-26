@@ -11,9 +11,9 @@
 <head>
     <title>DMC5 Characters</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/design.css">
-    <link rel="stylesheet" href="assets/css/mainstyles.css">
-    <link rel="stylesheet" href="assets/css/character_cards.css">
+    <link rel="stylesheet" href="./assets/design.css">
+    <link rel="stylesheet" href="./assets/css/mainstyles.css">
+    <link rel="stylesheet" href="./assets/css/character_cards.css">
 </head>
 <body>
     <div class="dmc5-logo">
