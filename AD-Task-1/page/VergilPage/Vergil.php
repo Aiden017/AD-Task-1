@@ -8,10 +8,10 @@
 <head>
     <title>Vergil's Domain</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/Vergilstyle.css">
+    <link rel="stylesheet" href="assets/css/Vergilstyle.css">
 </head>
 <body>
-    <audio id="bg-music" src="../assets/Mp3/BurytheLight.mp3" autoplay loop></audio>
+    <audio id="bg-music" src="../../assets/Mp3/BurytheLight.mp3" autoplay loop></audio>
     <div class="vergil-layout">
         <div class="vergil-description-side">
             <h2>Vergil</h2>
@@ -29,7 +29,7 @@
     </div>
     <div id="vergil-gif"></div>
     <hr>
-    <a href="../index.php">Return to Home</a>
-    <a href="./VGbattlelog.php">View Battle Log</a>
+   <a href="../../index.php">Return to Home</a>
+    <a href="VGbattlelog.php">View Battle Log</a>
 </body>
 </html>

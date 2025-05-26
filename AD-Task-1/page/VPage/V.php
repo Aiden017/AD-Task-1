@@ -8,10 +8,10 @@
 <head>
     <title>V's Domain</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/Vstyle.css">
+    <link rel="stylesheet" href="assets/css/Vstyle.css">
 </head>
 <body>
-     <audio id="bg-music" src="../assets/Mp3/DevilsNeverCry.mp3" autoplay loop></audio>
+     <audio id="bg-music" src="../../assets/Mp3/DevilsNeverCry.mp3" autoplay loop></audio>
     <div class="v-layout">
         <div class="v-description-side">
             <h2>V</h2>
@@ -26,7 +26,7 @@
     </div>
     <div id="v-gif"></div>
     <hr>
-    <a href="../index.php">Return to Home</a>
+    <a href="../../index.php">Return to Home</a>
     <a href="Vsbattlelog.php">View Battle Log</a>
 </body>
 </html>

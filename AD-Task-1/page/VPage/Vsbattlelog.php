@@ -6,7 +6,7 @@
 <head>
     <title>V's Battle Log</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/Vsbattlelog.css">
+    <link rel="stylesheet" href="assets/css/Vsbattlelog.css">
 </head>
 <body>
     <div class="v-layout">
@@ -24,7 +24,7 @@
     </div>
     <div id="v-gif"></div>
     <hr>
-    <a href="./v.php">Return to V's Bio</a>
-    <a href="../index.php">Return to Home</a>
+    <a href="v.php">Return to V's Bio</a>
+    <a href="../../index.php">Return to Home</a>
 </body>
 </html>

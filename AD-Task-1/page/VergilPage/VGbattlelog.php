@@ -6,7 +6,7 @@
 <head>
     <title>Vergil's Battle Log</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/VGbattlelog.css">
+    <link rel="stylesheet" href="assets/css/VGbattlelog.css">
 </head>
 <body>
     <div class="vergil-layout">
@@ -24,7 +24,7 @@
     </div>
     <div id="vergil-gif"></div>
     <hr>
-    <a href="./Vergil.php">Return to Vergil's Bio</a>
-    <a href="../index.php">Return to Home</a>
+    <a href="Vergil.php">Return to Vergil's Bio</a>
+   <a href="../../index.php">Return to Home</a>
 </body>
 </html>

@@ -8,10 +8,10 @@
 <head>
     <title>Nero's Domain</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/Nerostyle.css">
+    <link rel="stylesheet" href="assets/css/Nerostyle.css">
 </head>
 <body>
-    <audio id="bg-music" src="../assets/Mp3/SilverBullet.mp4" autoplay loop></audio>
+    <audio id="bg-music" src="../../assets/Mp3/SilverBullet.mp4" autoplay loop></audio>
     <div class="nero-layout">
         <div class="nero-description-side">
             <h2>Nero</h2>
@@ -27,7 +27,7 @@
     </div>
     <div id="nero-gif"></div>
     <hr>
-    <a href="../index.php">Return to Home</a>
+    <a href="../../index.php">Return to Home</a>
     <a href="NRbattlelog.php">View Battle Log</a>
 </body>
 </html>

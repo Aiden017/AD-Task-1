@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/DMC5logo.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/DMC5logo.png" alt="DMC5 Logo" width="130" height="100">
   </a>
   <h3 align="center">AD-Task-1: Devil May Cry Character Battle Logs</h3>
 </div>
@@ -49,12 +49,13 @@ This project is a web application that showcases character pages and battle logs
 
 ### Key Components
 
-- Character Pages (Vergil, Nero, Dante, V)
-- Battle Log Pages for each character
-- Themed CSS for each character and log
-- Local MP3 background music with controls
+- Character Pages (Vergil, Nero, Dante, V) in their own folders (e.g., `VergilPage/Vergil.php`)
+- Battle Log Pages for each character in the same folder (e.g., `VergilPage/VGbattlelog.php`)
+- Themed CSS for each character and log, located in each character's `assets/css` folder
+- Local MP3 background music with controls, using the main `assets/Mp3` directory
 - Responsive and visually consistent layouts
 - PHP-based page structure
+- Central landing page: `index.php` in the project root
 
 ### Technology
 
@@ -93,18 +94,30 @@ Local or any PHP-compatible server.
 AD-Task-1
 └─ assets
 |   └─ css
-|   |   └─ Vergilstyle.css, Nerostyle.css, etc.
+|   |   └─ character_cards.css, mainstyles.css, etc.
 |   └─ img
-|   |   └─ nyebe_white.png
+|   |   └─ DMC5logo.png
 |   └─ js
-|       └─ example.js
+|   |   └─ example.js
+|   └─ Mp3
+|       └─ DEVILS_NEVER_CRY_DANTE.mp3, BurytheLight.mp3, etc.
 └─ components
 |   └─ example.component.php
 └─ page
-|  └─ Vergil.php, nero.php, Dante.php, V.php, etc.
-|  └─ VGbattlelog.php, NRbattlelog.php, etc.
-|  └─ assets
-|     └─ css, img, js
+|   └─ DantePage
+|   |    └─ Dante.php, Dantebattlelog.php
+|   |    └─ assets/css/Dantestyle.css, assets/css/Dantebattlelog.css
+|   └─ NeroPage
+|   |    └─ nero.php, NRbattlelog.php
+|   |    └─ assets/css/Nerostyle.css, assets/css/NRbattlelog.css
+|   └─ VergilPage
+|   |    └─ Vergil.php, VGbattlelog.php
+|   |    └─ assets/css/Vergilstyle.css, assets/css/VGbattlelog.css
+|   └─ VPage
+|        └─ V.php, Vsbattlelog.php
+|        └─ assets/css/Vstyle.css, assets/css/Vsbattlelog.css
+|   └─ assets
+|        └─ css, img, js
 └─ utils
 |   └─ Example.utils.php
 └─ index.php

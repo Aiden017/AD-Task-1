@@ -6,7 +6,7 @@
 <head>
     <title>Nero's Battle Log</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/NRbattlelog.css">
+    <link rel="stylesheet" href="assets/css/NRbattlelog.css">
 </head>
 <body>
     <div class="nero-layout">
@@ -25,6 +25,6 @@
     <div id="nero-gif"></div>
     <hr>
     <a href="nero.php">Return to Nero's Bio</a>
-    <a href="../index.php">Return to Home</a>
+    <a href="../../index.php">Return to Home</a>
 </body>
 </html>
