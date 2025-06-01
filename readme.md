@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Aiden017/">
     <img src="./assets/img/DMC5logo.png" alt="DMC5 Logo" width="130" height="100">
   </a>
   <h3 align="center">AD-Task-1: Devil May Cry Character Battle Logs</h3>

@@ -12,8 +12,5 @@
             "email": "kentc1322@gmail.com"
         }
     ],
-    "scripts": {
-        "start": "php -S localhost:8000 router.php"
-    },
     "require": {}
 }

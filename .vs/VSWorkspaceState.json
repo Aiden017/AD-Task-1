@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\img",
+    "\\page",
+    "\\page\\assets",
+    "\\page\\DantePage",
+    "\\page\\NeroPage\\assets",
+    "\\page\\NeroPage\\assets\\css"
+  ],
+  "SelectedNode": "\\page\\DantePage\\Dante.php",
+  "PreviewInSolutionExplorer": false
+}

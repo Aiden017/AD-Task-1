@@ -1,4 +1,4 @@
-<?php
+<?php   
     $name = "Nero";
     $title = "The Young Devil Hunter";
     $weps = "Red Queen";
@@ -6,9 +6,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Nero's Domain</title>
+    <title>Nero's Domain</title>        
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/Nerostyle.css">
+        
 </head>
 <body>
     <audio id="bg-music" src="../../assets/Mp3/SilverBullet.mp4" autoplay loop></audio>
@@ -31,3 +31,4 @@
     <a href="NRbattlelog.php">View Battle Log</a>
 </body>
 </html>
+<?php include_once __DIR__ . '/../../components/footer.php'; ?>

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\DantePage\\Dante.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page\\DantePage\\Dante.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\NRbattlelog.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page\\NeroPage\\NRbattlelog.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\nero.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page\\NeroPage\\nero.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\character_cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\character_cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dante.php",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\DantePage\\Dante.php",
+              "RelativeDocumentMoniker": "page\\DantePage\\Dante.php",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\DantePage\\Dante.php",
+              "RelativeToolTip": "page\\DantePage\\Dante.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T04:29:32.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NRbattlelog.php",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\NRbattlelog.php",
+              "RelativeDocumentMoniker": "page\\NeroPage\\NRbattlelog.php",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\NRbattlelog.php",
+              "RelativeToolTip": "page\\NeroPage\\NRbattlelog.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T04:11:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nero.php",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\nero.php",
+              "RelativeDocumentMoniker": "page\\NeroPage\\nero.php",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\page\\NeroPage\\nero.php*",
+              "RelativeToolTip": "page\\NeroPage\\nero.php*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T03:29:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainstyles.css",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\mainstyles.css",
+              "RelativeDocumentMoniker": "assets\\css\\mainstyles.css",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\mainstyles.css",
+              "RelativeToolTip": "assets\\css\\mainstyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-01T03:21:40.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "character_cards.css",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\character_cards.css",
+              "RelativeDocumentMoniker": "assets\\css\\character_cards.css",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\assets\\css\\character_cards.css",
+              "RelativeToolTip": "assets\\css\\character_cards.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-01T03:21:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\Caitlynn\\Downloads\\FEU_IT\\2nd Year\\3rd Sem (HELL2)\\PHP\\AD-Task-1\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-01T03:09:56.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
